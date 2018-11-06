@@ -26,9 +26,7 @@ body {
 #authors .card:hover {
   background: #3292a6;
   color: #fff; }
-#authors h5:hover {
-  color: #fff; }
-#authors .fab {
+#authors a:hover {
   color: #fff; }
 
 @media (max-width: 768px) {
